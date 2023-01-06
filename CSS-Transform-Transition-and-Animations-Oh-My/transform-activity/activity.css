@@ -1,0 +1,9 @@
+.transform-demo > div {
+    height: 40px;
+    background: salmon;
+    width: 50;
+    margin: auto;
+    display: inline-block;
+    transform: translate(150px);
+    opacity: 0.5;
+  }
